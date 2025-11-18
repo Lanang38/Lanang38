@@ -1,3 +1,5 @@
+![Cokde Lanang](img/github.png)
+
 <h2 align="left">🧑‍💻 Hi, I'm Cokorda Gde Lanang Pringandana!</h2>
 
 ###
@@ -14,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Coding journey: Turning ideas into full-stack applications with React.js, TypeScript, Tailwind CSS, Express.js, and MongoDB<br><br>📚 Currently learning: Advanced TypeScript patterns, scalable backend architectures, and modern frontend animations<br><br>🎯 Goals: Build impactful web apps, contribute to open-source projects, and create clean, interactive, and user-friendly digital experiences<br><br>🎲 Fun fact: I enjoy leading collaborative projects while experimenting with AI/ML solutions on the side<br><br>💡 Passion: Combining frontend, backend, and data-driven logic to solve real-world problems and make life easier for users</p>
+<p align="left">✨ Journey: Full-stack development (React, TS, Express) from idea to deployment.<br><br>📚 Learning: Advanced TypeScript, scalable backends, and frontend animations.<br><br>🎯 Goals: Impactful apps, Open-Source contributions, and interactive UX design.<br><br>🎲 Fun fact: Leading collaborations and experimenting with AI/ML.<br><br>💡 Passion: Full-stack logic to solve real-world user problems.</p>
 
 ###
 
@@ -65,13 +67,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lanang38/Lanang38/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Lanang38/Lanang38/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Losthome">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Losthome&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
